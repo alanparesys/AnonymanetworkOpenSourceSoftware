@@ -11,8 +11,6 @@
 
 ## Authors
 
-Aseprite is being developed by [NorthTheval]:
-
 * [Alan Paresys](https://davidcapello.com/)
 
 
