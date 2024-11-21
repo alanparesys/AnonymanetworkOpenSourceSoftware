@@ -11,7 +11,7 @@
 
 ## Authors
 
-Aseprite is being developed by [Igara Studio](https://igara.com/):
+Aseprite is being developed by [NorthTheval]:
 
 * [Alan Paresys](https://davidcapello.com/)
 
